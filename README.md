@@ -83,8 +83,8 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">☕ Languages</h3>
+<h3>☕ Languages</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
