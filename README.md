@@ -81,7 +81,7 @@
 
 ----------------------
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 font-size="20px">🛠️ Tech Stack</h2>
 
 <h3>Languages</h3>
 
