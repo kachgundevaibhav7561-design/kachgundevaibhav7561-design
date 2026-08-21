@@ -1,14 +1,12 @@
 <h1 align="center">👋 Hi, I'm Vaibhav Kachgunde</h1>
 
-<h3 align="center">
-  🚀 Aspiring Java Full Stack Developer | BCA Graduate
-</h3>
+<h3 align="center">🚀 Java Full Stack Developer</h3>
 
 <p align="center">
-  Passionate about building modern, responsive & user-friendly web applications
-  using Java and web technologies.
+  Java | Spring | Spring Boot | Hibernate | Servlet | JSP | JDBC | MySQL
 </p>
 
 <p align="center">
-  💻 Turning ideas into real-world applications • 🌱 Always learning • 🚀 Always building
+  💻 Passionate about turning ideas into scalable, responsive & user-friendly
+  web applications using Java, Spring and modern web technologies.
 </p>
