@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm Vaibhav Kachgunde</h1>
 
 <h3 align="center">🚀 Java Full Stack Developer</h3>
@@ -11,7 +12,7 @@
   web applications using Java, Spring and modern web technologies.
 </p>
 
----
+--------------------------
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -76,4 +77,14 @@
 
 <p align="center">
   💡 <strong>Learn • Build • Improve • Repeat 🚀</strong>
+</p>
+
+----------------------
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">☕ Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
 </p>
