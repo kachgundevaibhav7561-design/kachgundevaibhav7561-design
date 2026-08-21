@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Vaibhav Kachgunde
+<h1 align="center">👋 Hi, I'm Vaibhav Kachgunde</h1>
 
-### 🚀 Aspiring Java Full Stack Developer | BCA Graduate
+<h3 align="center">
+  🚀 Aspiring Java Full Stack Developer | BCA Graduate
+</h3>
 
-I’m passionate about building modern, responsive, and user-friendly web applications using Java and web technologies.
+<p align="center">
+  Passionate about building modern, responsive & user-friendly web applications
+  using Java and web technologies.
+</p>
 
-💻 I enjoy turning ideas into real-world applications and continuously improving my development skills.
+<p align="center">
+  💻 Turning ideas into real-world applications • 🌱 Always learning • 🚀 Always building
+</p>
