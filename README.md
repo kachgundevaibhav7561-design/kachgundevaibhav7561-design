@@ -169,15 +169,22 @@ Exploring new Java technologies and improving my problem-solving and development
 ---
 
 ---
+---
 
 <h2>🤝 Connect With Me</h2>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  💼 <strong>LinkedIn:</strong>
+  <a href="YOUR_LINKEDIN_URL">Let's Connect</a>
+</p>
+
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:YOUR_EMAIL">Get in Touch</a>
+</p>
+
+<br>
+
+<p>
+  <strong>🚀 Let's connect, collaborate and build something meaningful together!</strong>
 </p>
