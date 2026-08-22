@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Education
+🎓 Education
 
 - BCA Graduate
 - Strong foundation in Java & Web Development
@@ -38,7 +38,7 @@
 
 <td width="50%" valign="top">
 
-### 💻 Development
+💻 Development
 
 - Java & Advanced Java
 - Spring & Spring Boot
@@ -51,7 +51,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 What I Do
+ What I Do
 
 - Build real-world web applications
 - Create responsive user interfaces
@@ -62,7 +62,7 @@
 
 <td width="50%" valign="top">
 
-### 🌱 Currently Learning
+🌱 Currently Learning
 
 - Spring Boot
 - REST APIs
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 
-<h3>🌐 Web Development</h3>
+<h3> Web Development</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-<h3>🚀 Java Technologies</h3>
+<h3> Java Technologies</h3>
 
 <p>
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 </p>
 
-<h3>🗄️ Database & Tools</h3>
+<h3>Database & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
@@ -125,9 +125,8 @@
 </p>
 
 ------------------------------
-------------------------------
 
-<h2>🎯 Currently Focusing On</h2>
+<h2> Currently Focusing On</h2>
 
 <details>
 <summary>🚀 <strong>Spring Boot & REST APIs</strong></summary>
@@ -166,24 +165,19 @@ Exploring new Java technologies and improving my problem-solving and development
 </details>
 
 
----
-
----
----
-
+-----------------------------------
 <h2>🤝 Connect With Me</h2>
 
 <p>
-  💼 <strong>LinkedIn:</strong>
-  <a href="https://www.linkedin.com/in/vaibhav-kachgunde-849432396/">Let's Connect</a>
+  <a href="https://www.linkedin.com/in/vaibhav-kachgunde-849432396/">
+    <strong>💼 LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kachgundevaibhav220@gmail.com">
+    <strong>📧 Email</strong>
+  </a>
 </p>
 
-<p>
-  📧 <strong>Email:</strong>
-  <a href="kachgundevaibhav220@gmail.com">Get in Touch</a>
-</p>
-
-<br>
 
 <p>
   <strong>🚀 Let's connect, collaborate and build something meaningful together!</strong>
