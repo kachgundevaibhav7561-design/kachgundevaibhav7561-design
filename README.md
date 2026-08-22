@@ -166,18 +166,16 @@ Exploring new Java technologies and improving my problem-solving and development
 
 
 -----------------------------------
+---
+
 <h2 align="center">🤝 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-kachgunde-849432396/" style="text-decoration: none;">
-    <strong>💼 LinkedIn</strong>
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-kachgunde-849432396/">
+    💼 LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kachgundevaibhav220@gmail.com" style="text-decoration: none;">
-    <strong>📧 Email</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kachgundevaibhav220@gmail.com">
+    📧 Email
   </a>
-</p>
-
-<p align="center">
-  <strong>🚀 Let's connect, collaborate and build something meaningful together!</strong>
-</p>
+</h3>
