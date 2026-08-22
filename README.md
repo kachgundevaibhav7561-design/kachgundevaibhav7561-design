@@ -123,3 +123,44 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat">
 </p>
+
+------------------------------
+------------------------------
+
+<h2>🎯 Currently Focusing On</h2>
+
+<details>
+<summary>🚀 <strong>Spring Boot & REST APIs</strong></summary>
+
+<br>
+
+Building modern Java backend applications and learning how to design and consume RESTful APIs.
+
+</details>
+
+<details>
+<summary>🗄️ <strong>Backend Development</strong></summary>
+
+<br>
+
+Improving my understanding of backend architecture, database integration and application development.
+
+</details>
+
+<details>
+<summary>💻 <strong>Full Stack Development</strong></summary>
+
+<br>
+
+Connecting frontend, backend and database layers to build complete web applications.
+
+</details>
+
+<details>
+<summary>🌱 <strong>Continuous Learning</strong></summary>
+
+<br>
+
+Exploring new Java technologies and improving my problem-solving and development skills.
+
+</details>
