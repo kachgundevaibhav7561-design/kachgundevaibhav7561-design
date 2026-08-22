@@ -164,3 +164,16 @@ Connecting frontend, backend and database layers to build complete web applicati
 Exploring new Java technologies and improving my problem-solving and development skills.
 
 </details>
+
+
+---
+
+<h2>📈 GitHub Presence</h2>
+
+<p>
+  💻 Consistently building and improving Java Full Stack projects.
+  <br>
+  🌱 Learning new technologies and strengthening my development skills.
+  <br>
+  🚀 Open to collaboration, learning opportunities and real-world projects.
+</p>
