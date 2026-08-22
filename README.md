@@ -175,12 +175,12 @@ Exploring new Java technologies and improving my problem-solving and development
 
 <p>
   💼 <strong>LinkedIn:</strong>
-  <a href="YOUR_LINKEDIN_URL">Let's Connect</a>
+  <a href="https://www.linkedin.com/in/vaibhav-kachgunde-849432396/">Let's Connect</a>
 </p>
 
 <p>
   📧 <strong>Email:</strong>
-  <a href="mailto:YOUR_EMAIL">Get in Touch</a>
+  <a href="kachgundevaibhav220@gmail.com">Get in Touch</a>
 </p>
 
 <br>
