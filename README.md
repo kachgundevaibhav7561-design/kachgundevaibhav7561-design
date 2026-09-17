@@ -166,7 +166,6 @@ Exploring new Java technologies and improving my problem-solving and development
 
 
 -----------------------------------
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
