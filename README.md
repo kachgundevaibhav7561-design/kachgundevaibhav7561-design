@@ -17,7 +17,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hi! I'm <strong>Vaibhav Kachgunde</strong> — a BCA Graduate and aspiring
+  Hi! I'm <strong>Vaibhav Kachgunde</strong> — BCA Graduate and aspiring
   <strong>Java Full Stack Developer</strong> passionate about building
   practical, responsive and user-friendly web applications.
 </p>
