@@ -173,11 +173,11 @@ Exploring new Java technologies and improving my problem-solving and development
 
 > A **Smart Real Estate Management System** built with Java & Spring Boot for managing properties, users, authentication, and property search.
 
-**🛠️ Tech Stack**
+*🛠️ Tech Stack*
 
 `Java 17` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
 
-**✨ Key Features**
+*✨ Key Features*
 
 - 🔐 User Registration & Login with BCrypt Password Encryption
 - 👤 User & Admin Role-Based Access
@@ -196,7 +196,7 @@ Exploring new Java technologies and improving my problem-solving and development
 <a href="YOUR_SMARTREALESTATEAI_GITHUB_LINK">
   <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-------------
+
 
 <h2 align="center">🤝 Connect With Me</h2>
 
