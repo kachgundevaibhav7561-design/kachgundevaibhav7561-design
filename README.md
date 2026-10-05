@@ -171,33 +171,33 @@ Exploring new Java technologies and improving my problem-solving and development
 
 ### 🏠 SmartRealEstateAI
 
-> A **Smart Real Estate Management System** built with Java & Spring Boot for managing properties, users, authentication, and property search.
+> A **Smart Real Estate Management System** built with **Java & Spring Boot** for managing properties, users, authentication, and property search.
 
-*🛠️ Tech Stack*
+#### 🛠️ Tech Stack
 
-`Java ` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
+`Java 17` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
 
-*Key Features*
+#### ✨ Key Features
 
-- 🔐 User Registration & Login with BCrypt Password Encryption
-- 👤 User & Admin Role-Based Access
-- 🏘️ Property CRUD Operations
-- 🔎 Search Properties by Location
-- 💰 Filter Properties by Price Range
-- 🏷️ Property Type & Availability Management
-- 🌐 RESTful API Development
-- 🗄️ MySQL Database Integration
-- 🎨 Responsive & User-Friendly Frontend
+- User Registration & Login with BCrypt Password Encryption
+- User & Admin Role-Based Access
+- Property CRUD Operations
+- Property Search by Location
+- Property Filtering by Price Range
+- Property Type & Availability Management
+- RESTful API Development
+- MySQL Database Integration
+- Responsive & User-Friendly Frontend
 
-** Project Highlights**
+#### 💡 Project Highlights
 
-`Spring Boot` • `REST APIs` • `Spring Security` • `JPA/Hibernate` • `MySQL` • `CRUD Operations`
+`Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
 
-<a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
-  <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
+<p align="center">
+  <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
 <h2 align="center">🤝 Connect With Me</h2>
 
 <h3 align="center">
