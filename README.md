@@ -124,7 +124,66 @@
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat">
 </p>
 
-------------------------------
+-----------------------------------
+
+## 🚀 Featured Projects
+
+### 🏠 SmartRealEstateAI
+
+> A **Smart Real Estate Management System** built with **Java & Spring Boot** for managing properties, users, authentication, and property search.
+
+#### 🛠️ Tech Stack
+
+`Java ` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
+
+#### ✨ Key Features
+
+- User Registration & Login with BCrypt Password Encryption
+- User & Admin Role-Based Access
+- Property CRUD Operations
+- Property Search by Location
+- Property Filtering by Price Range
+- Property Type & Availability Management
+- RESTful API Development
+- MySQL Database Integration
+- Responsive & User-Friendly Frontend
+
+#### 💡 Project Highlights
+
+`Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
+
+  <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+
+  ## 🚀 Featured Projects
+
+### 👨‍💼 Employee Leave Management System (ELMS)
+
+> A **web-based Employee Leave Management System** built with **Java, JSP, Servlets, JDBC, and MySQL** to manage employee leave applications, leave history, employee records, and admin approval workflows.
+
+#### 🛠️ Tech Stack
+
+`Java` `JSP` `Servlets` `JDBC` `MySQL` `HTML5` `CSS3` `Bootstrap 5.3` `JavaScript` `Font Awesome` `Apache Tomcat`
+
+#### ✨ Key Features
+
+- Employee & Admin Login with Role-Based Access
+- Employee Leave Application & Leave History
+- Admin Leave Approval / Rejection Management
+- Employee Management with Search Functionality
+- Forgot Password with OTP-Based Password Reset
+- MySQL Database Integration using JDBC & DAO Pattern
+
+#### 💡 Project Highlights
+
+`Java` • `JSP / Servlets` • `JDBC` • `MySQL` • `DAO Pattern` • `Session Management` • `CRUD Operations` • `Role-Based Access`
+
+  <a href="https://github.com/kachgundevaibhav7561-design/ELMS-System">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+
+-----------------------------
 
 <h2> Currently Focusing On</h2>
 
@@ -164,38 +223,8 @@ Exploring new Java technologies and improving my problem-solving and development
 
 </details>
 
+  
 
------------------------------------
-
-## 🚀 Featured Projects
-
-### 🏠 SmartRealEstateAI
-
-> A **Smart Real Estate Management System** built with **Java & Spring Boot** for managing properties, users, authentication, and property search.
-
-#### 🛠️ Tech Stack
-
-`Java 17` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
-
-#### ✨ Key Features
-
-- User Registration & Login with BCrypt Password Encryption
-- User & Admin Role-Based Access
-- Property CRUD Operations
-- Property Search by Location
-- Property Filtering by Price Range
-- Property Type & Availability Management
-- RESTful API Development
-- MySQL Database Integration
-- Responsive & User-Friendly Frontend
-
-#### 💡 Project Highlights
-
-`Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
-
-  <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
 <h2 align="center">🤝 Connect With Me</h2>
 
 <h3 align="center">
