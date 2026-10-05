@@ -151,11 +151,11 @@
 
 `Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
 
-<p align="center">
+
   <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartRealEstateAI Project"/>
   </a>
-</p>
+
 
 ---
 
@@ -180,52 +180,67 @@
 
 `Java` • `JSP / Servlets` • `JDBC` • `MySQL` • `DAO Pattern` • `Session Management` • `CRUD Operations` • `Role-Based Access`
 
-<p align="center">
+
   <a href="https://github.com/kachgundevaibhav7561-design/ELMS-System">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ELMS Project"/>
   </a>
-</p>
------------------------------
 
-<h2> Currently Focusing On</h2>
+---
 
-<details>
-<summary>🚀 <strong>Spring Boot & REST APIs</strong></summary>
+<h2 align="center">Currently Focusing On</h2>
 
-<br>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☕ Java & Spring Boot</h3>
+      <p>
+        Strengthening backend development with Spring Boot,
+        REST APIs, Spring Security and JPA/Hibernate.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚛️ React</h3>
+      <p>
+        Learning React fundamentals and building modern,
+        component-based frontend applications.
+      </p>
+    </td>
+  </tr>
 
-Building modern Java backend applications and learning how to design and consume RESTful APIs.
+  <tr>
+    <td align="center" width="50%">
+      <h3>🟨 JavaScript ES6+</h3>
+      <p>
+        Improving modern JavaScript skills including
+        let/const, arrow functions, promises, async/await and modules.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Backend & Database</h3>
+      <p>
+        Improving backend architecture, MySQL database integration,
+        API development and application design.
+      </p>
+    </td>
+  </tr>
 
-</details>
-
-<details>
-<summary>🗄️ <strong>Backend Development</strong></summary>
-
-<br>
-
-Improving my understanding of backend architecture, database integration and application development.
-
-</details>
-
-<details>
-<summary>💻 <strong>Full Stack Development</strong></summary>
-
-<br>
-
-Connecting frontend, backend and database layers to build complete web applications.
-
-</details>
-
-<details>
-<summary>🌱 <strong>Continuous Learning</strong></summary>
-
-<br>
-
-Exploring new Java technologies and improving my problem-solving and development skills.
-
-</details>
-
-  
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Full Stack Development</h3>
+      <p>
+        Connecting Java backend technologies with modern
+        frontend development to build complete web applications.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Continuous Learning</h3>
+      <p>
+        Exploring new technologies and continuously improving
+        problem-solving, coding and development skills.
+      </p>
+    </td>
+  </tr>
+</table>  
 
 <h2 align="center">🤝 Connect With Me</h2>
 
