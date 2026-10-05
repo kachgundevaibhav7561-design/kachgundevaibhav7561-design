@@ -167,6 +167,37 @@ Exploring new Java technologies and improving my problem-solving and development
 
 -----------------------------------
 
+## 🚀 Featured Projects
+
+### 🏠 SmartRealEstateAI
+
+> A **Smart Real Estate Management System** built with Java & Spring Boot for managing properties, users, authentication, and property search.
+
+**🛠️ Tech Stack**
+
+`Java 17` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
+
+**✨ Key Features**
+
+- 🔐 User Registration & Login with BCrypt Password Encryption
+- 👤 User & Admin Role-Based Access
+- 🏘️ Property CRUD Operations
+- 🔎 Search Properties by Location
+- 💰 Filter Properties by Price Range
+- 🏷️ Property Type & Availability Management
+- 🌐 RESTful API Development
+- 🗄️ MySQL Database Integration
+- 🎨 Responsive & User-Friendly Frontend
+
+**📌 Project Highlights**
+
+`Spring Boot` • `REST APIs` • `Spring Security` • `JPA/Hibernate` • `MySQL` • `CRUD Operations`
+
+<a href="YOUR_SMARTREALESTATEAI_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/💻%20View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+------------
+
 <h2 align="center">🤝 Connect With Me</h2>
 
 <h3 align="center">
