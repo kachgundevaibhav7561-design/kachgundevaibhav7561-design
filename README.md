@@ -195,7 +195,7 @@ Strengthening backend development with Spring Boot, REST APIs,
 Spring Security, JPA/Hibernate and building scalable Java applications.
 </p>
 
-<h3>⚛️ React</h3>
+<h3>React</h3>
 
 <p>
 Learning React fundamentals, components, props, state management
