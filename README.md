@@ -193,11 +193,9 @@ Exploring new Java technologies and improving my problem-solving and development
 
 `Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
 
-<p align="center">
   <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
-</p>
 <h2 align="center">🤝 Connect With Me</h2>
 
 <h3 align="center">
