@@ -156,7 +156,6 @@
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 
-  ## 🚀 Featured Projects
 
 ### 👨‍💼 Employee Leave Management System (ELMS)
 
