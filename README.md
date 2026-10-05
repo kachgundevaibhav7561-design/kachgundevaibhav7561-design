@@ -186,61 +186,51 @@
   </a>
 
 ---
+<h2>🎯 Currently Focusing On</h2>
 
-<h2 align="center">Currently Focusing On</h2>
+<h3>☕ Java & Spring Boot</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>☕ Java & Spring Boot</h3>
-      <p>
-        Strengthening backend development with Spring Boot,
-        REST APIs, Spring Security and JPA/Hibernate.
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚛️ React</h3>
-      <p>
-        Learning React fundamentals and building modern,
-        component-based frontend applications.
-      </p>
-    </td>
-  </tr>
+<p>
+Strengthening backend development with Spring Boot, REST APIs,
+Spring Security, JPA/Hibernate and building scalable Java applications.
+</p>
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>🟨 JavaScript ES6+</h3>
-      <p>
-        Improving modern JavaScript skills including
-        let/const, arrow functions, promises, async/await and modules.
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🗄️ Backend & Database</h3>
-      <p>
-        Improving backend architecture, MySQL database integration,
-        API development and application design.
-      </p>
-    </td>
-  </tr>
+<h3>⚛️ React</h3>
 
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌐 Full Stack Development</h3>
-      <p>
-        Connecting Java backend technologies with modern
-        frontend development to build complete web applications.
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📚 Continuous Learning</h3>
-      <p>
-        Exploring new technologies and continuously improving
-        problem-solving, coding and development skills.
-      </p>
-    </td>
-  </tr>
-</table>  
+<p>
+Learning React fundamentals, components, props, state management
+and building modern, responsive frontend applications.
+</p>
+
+<h3>🟨 JavaScript ES6+</h3>
+
+<p>
+Improving modern JavaScript skills including let/const,
+arrow functions, template literals, destructuring, promises,
+async/await and ES6+ features.
+</p>
+
+<h3>🗄️ Backend & Database</h3>
+
+<p>
+Improving backend architecture, MySQL database integration,
+CRUD operations and REST API development.
+</p>
+
+<h3>🌐 Full Stack Development</h3>
+
+<p>
+Working towards becoming a Java Full Stack Developer by
+combining modern frontend technologies with Java backend development.
+</p>
+
+<h3>📚 Continuous Learning</h3>
+
+<p>
+Continuously exploring new technologies and improving
+problem-solving, coding and software development skills.
+</p>
+---
 
 <h2 align="center">🤝 Connect With Me</h2>
 
