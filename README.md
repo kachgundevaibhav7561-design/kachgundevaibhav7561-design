@@ -125,7 +125,6 @@
 </p>
 
 -----------------------------------
-
 ## 🚀 Featured Projects
 
 ### 🏠 SmartRealEstateAI
@@ -134,7 +133,7 @@
 
 #### 🛠️ Tech Stack
 
-`Java ` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
+`Java 17` `Spring Boot` `Spring Security` `REST API` `JPA` `Hibernate` `MySQL` `Lombok` `Maven` `HTML5` `CSS3` `JavaScript`
 
 #### ✨ Key Features
 
@@ -152,11 +151,13 @@
 
 `Spring Boot` • `REST API` • `Spring Security` • `JPA / Hibernate` • `MySQL` • `CRUD Operations`
 
+<p align="center">
   <a href="https://github.com/kachgundevaibhav7561-design/SmartRealEstateAI">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SmartRealEstateAI Project"/>
   </a>
-  --------------------------------------------------
+</p>
 
+---
 
 ### 👨‍💼 Employee Leave Management System (ELMS)
 
@@ -179,10 +180,11 @@
 
 `Java` • `JSP / Servlets` • `JDBC` • `MySQL` • `DAO Pattern` • `Session Management` • `CRUD Operations` • `Role-Based Access`
 
+<p align="center">
   <a href="https://github.com/kachgundevaibhav7561-design/ELMS-System">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ELMS Project"/>
   </a>
-
+</p>
 -----------------------------
 
 <h2> Currently Focusing On</h2>
